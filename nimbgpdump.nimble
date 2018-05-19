@@ -3,7 +3,7 @@
 version       = "0.1.0"
 author        = "survivorm"
 description   = "libbgpdump wrapper in Nim"
-license       = "MIT"
+license       = "GPLv2"
 
 skipDirs = @["tests"]
 
